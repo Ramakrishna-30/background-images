@@ -1,0 +1,149 @@
+.h-container{
+    background-color: red;
+    background-size: cover;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+
+}
+.button{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.feature{
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+     
+}
+
+.bottom-container{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+
+
+
+.nav-container{
+    background-color: blueviolet;
+    padding: 20px 30px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+ 
+ 
+
+
+
+.ul-list{
+    list-style: none;
+    
+}
+
+.li-list{
+    display: inline;
+    margin: 0 15px;
+}
+
+
+.a-tag{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+ }
+
+
+ .container2{
+    background-color: aliceblue;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid 
+}
+
+
+ .container2 h1{
+    color: darkgray;
+ }
+
+
+ .footer{
+    background-color: maroon;
+    color: antiquewhite;
+    padding: 20px 25px;
+    text-align: center;
+ }
+
+ .parent{
+    
+    background-color: antiquewhite;
+    height:100%;
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 10px;
+   
+ }
+
+
+ .child1{
+    background-image: url(images/free-photo-of-a-dog-in-a-field.jpeg)  ;
+    display: block;
+    border: 2px solid red;
+    height: 300px;
+    width:400px;
+    background-size: 100px 80px;
+    background-repeat:no-repeat;
+    background-position: right bottom ;
+} 
+
+
+
+.child2{
+    background-image: url(images/pexels-photo-7369877.webp)  ;
+    display: block;
+    border: 2px solid red;
+    height: 300px;
+    width:400px;
+    background-size: 100px 80px;
+    background-repeat:no-repeat;
+    background-position: right bottom ;
+} 
+
+
+
+.child3{
+    background-image: url(images/pexels-photo-10183387.jpeg)  ;
+    display: block;
+    border: 2px solid red;
+    height: 300px;
+    width:400px;
+    background-size: 100px 80px;
+    background-repeat:no-repeat;
+    background-position: right bottom ;
+} 
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
